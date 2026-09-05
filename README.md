@@ -1,5 +1,5 @@
 # MobileApps-Plot-Simply
-Plot data on the go (local storage)
+Plot data on the go (local storage). Source code not included as app is from MIT App Inventor space.
 
 - Go to release v1.0
 - Download Rec.apk
